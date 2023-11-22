@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fac7ce8-3d95-4d6c-93b8-832b3ba4bc78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,11 +59,19 @@
       <option name="project" value="LOCAL" />
       <updated>1700635513772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nenavidim github v2">
+      <created>1700636347077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700636347077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nenavidim github" />
-    <option name="LAST_COMMIT_MESSAGE" value="nenavidim github" />
+    <MESSAGE value="nenavidim github v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="nenavidim github v2" />
   </component>
 </project>
